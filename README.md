@@ -1,3 +1,4 @@
+hi
 # Animal Crossing Amiibo
 
 Step-by-step instructions on how to recreate Amiibo cards for Animal Crossing: New Horizons. For educational purposes only.
